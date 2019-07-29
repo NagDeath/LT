@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GameAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: bbe664feb09112a4dbdbb2cefbdba27f, type: 3}
+    - {fileID: 2800000, guid: 7e0be863f3691b94eb2e76e269a4d79f, type: 3}
+    - {fileID: 2800000, guid: af1e1b3ca592df241b713d19f14bb0b9, type: 3}
+    - {fileID: 2800000, guid: e182dc91ab92bfd4483106a82e40f28d, type: 3}
+    - {fileID: 2800000, guid: 2d5c884fdc8657d40bbd76edfd951a33, type: 3}
+    - {fileID: 2800000, guid: aa8a9660cbd927441bf5e94aead2c8d3, type: 3}
+    - {fileID: 2800000, guid: 16fde8be063aaa742805b7bae728cb8f, type: 3}
+    - {fileID: 2800000, guid: eea0308fbc9df644382dca0320eb828c, type: 3}
+    - {fileID: 2800000, guid: bccbb4027722cf94aa7b4388d6a8b33c, type: 3}
+    - {fileID: 2800000, guid: c70c0a632eb42634ca098f357611a723, type: 3}
+    - {fileID: 2800000, guid: 11a22f3399b7a1747a5037b7d199eacb, type: 3}
+    - {fileID: 2800000, guid: 18932627f68550f4985bb4c467f215da, type: 3}
+    - {fileID: 2800000, guid: b35cc43d047fbeb44944751fb7508042, type: 3}
+    - {fileID: 2800000, guid: bdcfad72db23f794090b22c6d83da6b4, type: 3}
+    - {fileID: 2800000, guid: fcd64c832920edc49905da8bf33bf167, type: 3}
+    - {fileID: 2800000, guid: 840b8aeaeaef4f942a59a085bb4ef881, type: 3}
+    - {fileID: 2800000, guid: 38acaec2d98df6c429c5afb257547f39, type: 3}
+    totalSpriteSurfaceArea: 1515316
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: aa8a9660cbd927441bf5e94aead2c8d3, type: 3}
+  - {fileID: 21300000, guid: e182dc91ab92bfd4483106a82e40f28d, type: 3}
+  - {fileID: 21300000, guid: bccbb4027722cf94aa7b4388d6a8b33c, type: 3}
+  - {fileID: 21300000, guid: bdcfad72db23f794090b22c6d83da6b4, type: 3}
+  - {fileID: 21300000, guid: 38acaec2d98df6c429c5afb257547f39, type: 3}
+  - {fileID: 21300000, guid: 11a22f3399b7a1747a5037b7d199eacb, type: 3}
+  - {fileID: 21300000, guid: 7e0be863f3691b94eb2e76e269a4d79f, type: 3}
+  - {fileID: 21300000, guid: c70c0a632eb42634ca098f357611a723, type: 3}
+  - {fileID: 21300000, guid: fcd64c832920edc49905da8bf33bf167, type: 3}
+  - {fileID: 21300000, guid: 18932627f68550f4985bb4c467f215da, type: 3}
+  - {fileID: 21300000, guid: 840b8aeaeaef4f942a59a085bb4ef881, type: 3}
+  - {fileID: 21300000, guid: af1e1b3ca592df241b713d19f14bb0b9, type: 3}
+  - {fileID: 21300000, guid: b35cc43d047fbeb44944751fb7508042, type: 3}
+  - {fileID: 21300000, guid: 16fde8be063aaa742805b7bae728cb8f, type: 3}
+  - {fileID: 21300000, guid: bbe664feb09112a4dbdbb2cefbdba27f, type: 3}
+  - {fileID: 21300000, guid: 2d5c884fdc8657d40bbd76edfd951a33, type: 3}
+  - {fileID: 21300000, guid: eea0308fbc9df644382dca0320eb828c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - button_extreme! _back_1
+  - button_difficult! _back
+  - play
+  - back_icons
+  - button_return_back
+  - quake
+  - button
+  - tornado
+  - hand
+  - meteorite
+  - button_return
+  - setting
+  - lightning
+  - skip_level_button_2
+  - billet_level
+  - button_extreme! _back_2
+  - skip_level_button_1
+  m_Tag: GameAtlas
+  m_IsVariant: 0

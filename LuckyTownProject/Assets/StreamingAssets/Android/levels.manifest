@@ -1,0 +1,107 @@
+ManifestFileVersion: 0
+CRC: 1830962417
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 95d73669227aa56ab17b972a5532e189
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 50121c316eae59f9601a991bd8726392
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8aaa2891cdd1b804b9055cb8a4cf5fc6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f7b29c30e9cece4b99ca73d23a4898d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6cb38a1501a003e4086800b0683cb051, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 759b46255a1430049970a116f3364c37, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f41395b63679f794bbbd69a960248b82, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Levels/l22.prefab
+- Assets/Prefabs/Levels/l35.prefab
+- Assets/Prefabs/Levels/l9.prefab
+- Assets/Prefabs/Levels/l45.prefab
+- Assets/Prefabs/Levels/l49.prefab
+- Assets/Prefabs/Levels/l17.prefab
+- Assets/Prefabs/Levels/l18.prefab
+- Assets/Prefabs/Levels/l43.prefab
+- Assets/Prefabs/Levels/l7.prefab
+- Assets/Prefabs/Levels/l24.prefab
+- Assets/Prefabs/Levels/l8.prefab
+- Assets/Prefabs/Levels/l27.prefab
+- Assets/Prefabs/Levels/l32.prefab
+- Assets/Prefabs/Levels/l58.prefab
+- Assets/Prefabs/Levels/l16.prefab
+- Assets/Prefabs/Levels/l38.prefab
+- Assets/Prefabs/Levels/l26.prefab
+- Assets/Prefabs/Levels/l51.prefab
+- Assets/Prefabs/Levels/l20.prefab
+- Assets/Prefabs/Levels/l3.prefab
+- Assets/Prefabs/Levels/l5.prefab
+- Assets/Prefabs/Levels/l47.prefab
+- Assets/Prefabs/Levels/l37.prefab
+- Assets/Prefabs/Levels/l41.prefab
+- Assets/Prefabs/Levels/l53.prefab
+- Assets/Prefabs/Levels/l59.prefab
+- Assets/Prefabs/Levels/l10.prefab
+- Assets/Prefabs/Levels/l34.prefab
+- Assets/Prefabs/Levels/l55.prefab
+- Assets/Prefabs/Levels/l60.prefab
+- Assets/Prefabs/Levels/l36.prefab
+- Assets/Prefabs/Levels/l23.prefab
+- Assets/Prefabs/Levels/l15.prefab
+- Assets/Prefabs/Levels/l21.prefab
+- Assets/Prefabs/Levels/l29.prefab
+- Assets/Prefabs/Levels/l33.prefab
+- Assets/Prefabs/Levels/l44.prefab
+- Assets/Prefabs/Levels/l25.prefab
+- Assets/Prefabs/Levels/l56.prefab
+- Assets/Prefabs/Levels/l14.prefab
+- Assets/Prefabs/Levels/l13.prefab
+- Assets/Prefabs/Levels/l54.prefab
+- Assets/Prefabs/Levels/l28.prefab
+- Assets/Prefabs/Levels/l48.prefab
+- Assets/Prefabs/Levels/l30.prefab
+- Assets/Prefabs/Levels/l12.prefab
+- Assets/Prefabs/Levels/l39.prefab
+- Assets/Prefabs/Levels/l6.prefab
+- Assets/Prefabs/Levels/l11.prefab
+- Assets/Prefabs/Levels/l1.prefab
+- Assets/Prefabs/Levels/l46.prefab
+- Assets/Prefabs/Levels/l52.prefab
+- Assets/Prefabs/Levels/l50.prefab
+- Assets/Prefabs/Levels/l4.prefab
+- Assets/Prefabs/Levels/l19.prefab
+- Assets/Prefabs/Levels/l2.prefab
+- Assets/Prefabs/Levels/l40.prefab
+- Assets/Prefabs/Levels/l57.prefab
+- Assets/Prefabs/Levels/l42.prefab
+- Assets/Prefabs/Levels/l31.prefab
+Dependencies: []
